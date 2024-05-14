@@ -1,0 +1,3 @@
+importFrom("lpSolve", "lp")
+importFrom("combinat", "permn")
+export("cycle", "one", "initial.design", "pwo", "swap", "doofa.pwo", "shuffle", "gen.design2", "bin", "vbin", "revbin", "vrevbin", "coa")

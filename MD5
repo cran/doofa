@@ -1,0 +1,16 @@
+310a93767bce3523a75617654fd8274b *DESCRIPTION
+5622512f18cffc515228c78f4583d2c6 *NAMESPACE
+d0cb2602b3aa2935a92f002b11314f68 *R/doofa.R
+3e2bff12e92c59dc651a68a7ae1575a4 *man/bin.Rd
+3a51d7a10218899540f11aeade6b9c3b *man/coa.Rd
+30bdb63c587040a40025cdf006b6ec62 *man/cycle.Rd
+b19ab722892d06a566c8b02893cbf3c1 *man/doofa.pwo.Rd
+0744d54cc62e3e59f1c55e12bf7066e0 *man/gen.design2.Rd
+74448d3992f52ba29a20df72c3ebce0f *man/initial.design.Rd
+394fee17693bfea8ba03e20bccc652be *man/one.Rd
+212b35853c3066b04c440bbf586e408f *man/pwo.Rd
+c4e5925090fad101834bd1732f1230bc *man/revbin.Rd
+f5909ef7e12ef0bbbe45dcb22386d30a *man/shuffle.Rd
+c04f4ba5dd7e296028b795c9f47b7c4a *man/swap.Rd
+9a4385fa4cb386d6e4635ac626cbba03 *man/vbin.Rd
+211267aebc9a89a0f989f5959eceaf51 *man/vrevbin.Rd
